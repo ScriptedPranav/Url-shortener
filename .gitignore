@@ -1,0 +1,23 @@
+# Dependency directories
+/node_modules
+
+# Built output
+/dist
+
+# Environment variables
+.env
+
+# IDE and editor files
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Compiled TypeScript
+*.js
+*.js.map
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
